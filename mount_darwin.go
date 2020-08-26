@@ -10,7 +10,7 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/jacobsa/fuse/internal/buffer"
+	"github.com/kahing/fusego/internal/buffer"
 )
 
 var errNoAvail = errors.New("no available fuse devices")

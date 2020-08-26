@@ -19,7 +19,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/jacobsa/fuse/fuseops"
+	"github.com/kahing/fusego/fuseops"
 )
 
 // Decide on the name of the given op.

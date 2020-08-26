@@ -22,9 +22,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/jacobsa/fuse"
-	"github.com/jacobsa/fuse/fuseops"
-	"github.com/jacobsa/fuse/fuseutil"
+	"github.com/kahing/fusego"
+	"github.com/kahing/fusego/fuseops"
+	"github.com/kahing/fusego/fuseutil"
 	"github.com/jacobsa/syncutil"
 )
 
